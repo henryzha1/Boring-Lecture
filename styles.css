@@ -1,15 +1,17 @@
-h2.intro {
+.intro h2 {
     color: blue;
 }
 
-img.intro {
+.intro img {
     float: right;
 }
 
-p.intro {
+.intro p {
     font-weight: 700;
+    width: 20%;
 }
 
 #header {
     font-size: 20px;
+    width: 10%;
 }
